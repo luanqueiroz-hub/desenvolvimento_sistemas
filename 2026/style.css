@@ -1,0 +1,15 @@
+.btn-estilizado {
+  background-color: #dd1515;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-estilizado:hover {
+  background-color: #0056b3;
+}
